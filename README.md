@@ -1,4 +1,5 @@
 # gitdemo2023
+<<<<<<< HEAD
 
 How to take over the world
 1. Buy bitcoin
@@ -21,3 +22,6 @@ e)  gb
 ```{python}
 print("hellow world")
 ```
+=======
+## This is a sample change
+>>>>>>> 2eb34a27662c8cce23b8e1be8fbe56ed1575ab9c
